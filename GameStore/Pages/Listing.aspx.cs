@@ -11,7 +11,7 @@ namespace GameStore
 {
     public partial class Listing : System.Web.UI.Page
     {
-        private int pageSize = 5;
+        private int pageSize = 6;
 
         Repository repository = new Repository();
 
